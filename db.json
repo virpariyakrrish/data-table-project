@@ -1,0 +1,904 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "rollNo": 1,
+      "name": "Aarav",
+      "dsa": 80,
+      "maths": 75,
+      "dbms": 82,
+      "networking": 88
+    },
+    {
+      "id": "2",
+      "rollNo": 2,
+      "name": "Vivaan",
+      "dsa": 85,
+      "maths": 82,
+      "dbms": 79,
+      "networking": 91
+    },
+    {
+      "id": "3",
+      "rollNo": 3,
+      "name": "Aditya",
+      "dsa": 78,
+      "maths": 86,
+      "dbms": 85,
+      "networking": 80
+    },
+    {
+      "id": "4",
+      "rollNo": 4,
+      "name": "Arjun",
+      "dsa": 92,
+      "maths": 86,
+      "dbms": 90,
+      "networking": 89
+    },
+    {
+      "id": "5",
+      "rollNo": 5,
+      "name": "Rohan",
+      "dsa": 76,
+      "maths": 72,
+      "dbms": 81,
+      "networking": 85
+    },
+    {
+      "id": "6",
+      "rollNo": 6,
+      "name": "Kiaan",
+      "dsa": 69,
+      "maths": 83,
+      "dbms": 83,
+      "networking": 97
+    },
+    {
+      "id": "7",
+      "rollNo": 7,
+      "name": "Dhruv",
+      "dsa": 95,
+      "maths": 79,
+      "dbms": 82,
+      "networking": 73
+    },
+    {
+      "id": "8",
+      "rollNo": 8,
+      "name": "Kabir",
+      "dsa": 87,
+      "maths": 92,
+      "dbms": 77,
+      "networking": 91
+    },
+    {
+      "id": "9",
+      "rollNo": 9,
+      "name": "Shaurya",
+      "dsa": 77,
+      "maths": 72,
+      "dbms": 81,
+      "networking": 82
+    },
+    {
+      "id": "10",
+      "rollNo": 10,
+      "name": "Ayaan",
+      "dsa": 84,
+      "maths": 96,
+      "dbms": 77,
+      "networking": 89
+    },
+    {
+      "id": "11",
+      "rollNo": 11,
+      "name": "Darsh",
+      "dsa": 93,
+      "maths": 83,
+      "dbms": 77,
+      "networking": 74
+    },
+    {
+      "id": "12",
+      "rollNo": 12,
+      "name": "Ishaan",
+      "dsa": 75,
+      "maths": 94,
+      "dbms": 78,
+      "networking": 91
+    },
+    {
+      "id": "13",
+      "rollNo": 13,
+      "name": "Aarush",
+      "dsa": 65,
+      "maths": 63,
+      "dbms": 74,
+      "networking": 65
+    },
+    {
+      "id": "14",
+      "rollNo": 14,
+      "name": "Rudra",
+      "dsa": 61,
+      "maths": 67,
+      "dbms": 75,
+      "networking": 100
+    },
+    {
+      "id": "15",
+      "rollNo": 15,
+      "name": "Ansh",
+      "dsa": 78,
+      "maths": 68,
+      "dbms": 61,
+      "networking": 89
+    },
+    {
+      "id": "16",
+      "rollNo": 16,
+      "name": "Ahaan",
+      "dsa": 77,
+      "maths": 82,
+      "dbms": 69,
+      "networking": 73
+    },
+    {
+      "id": "17",
+      "rollNo": 17,
+      "name": "Aryan",
+      "dsa": 89,
+      "maths": 81,
+      "dbms": 69,
+      "networking": 63
+    },
+    {
+      "id": "18",
+      "rollNo": 18,
+      "name": "Reyansh",
+      "dsa": 61,
+      "maths": 82,
+      "dbms": 81,
+      "networking": 95
+    },
+    {
+      "id": "19",
+      "rollNo": 19,
+      "name": "Ayush",
+      "dsa": 87,
+      "maths": 89,
+      "dbms": 70,
+      "networking": 69
+    },
+    {
+      "id": "20",
+      "rollNo": 20,
+      "name": "Ojas",
+      "dsa": 82,
+      "maths": 100,
+      "dbms": 86,
+      "networking": 75
+    },
+    {
+      "id": "21",
+      "rollNo": 21,
+      "name": "Neil",
+      "dsa": 87,
+      "maths": 62,
+      "dbms": 91,
+      "networking": 73
+    },
+    {
+      "id": "22",
+      "rollNo": 22,
+      "name": "Samar",
+      "dsa": 75,
+      "maths": 97,
+      "dbms": 81,
+      "networking": 65
+    },
+    {
+      "id": "23",
+      "rollNo": 23,
+      "name": "Pranav",
+      "dsa": 77,
+      "maths": 74,
+      "dbms": 78,
+      "networking": 92
+    },
+    {
+      "id": "24",
+      "rollNo": 24,
+      "name": "Dev",
+      "dsa": 97,
+      "maths": 86,
+      "dbms": 60,
+      "networking": 61
+    },
+    {
+      "id": "25",
+      "rollNo": 25,
+      "name": "Ronak",
+      "dsa": 97,
+      "maths": 96,
+      "dbms": 79,
+      "networking": 75
+    },
+    {
+      "id": "26",
+      "rollNo": 26,
+      "name": "Manan",
+      "dsa": 79,
+      "maths": 69,
+      "dbms": 83,
+      "networking": 87
+    },
+    {
+      "id": "27",
+      "rollNo": 27,
+      "name": "Ranbir",
+      "dsa": 62,
+      "maths": 65,
+      "dbms": 92,
+      "networking": 100
+    },
+    {
+      "id": "28",
+      "rollNo": 28,
+      "name": "Shivansh",
+      "dsa": 69,
+      "maths": 84,
+      "dbms": 94,
+      "networking": 83
+    },
+    {
+      "id": "29",
+      "rollNo": 29,
+      "name": "Aayush",
+      "dsa": 76,
+      "maths": 93,
+      "dbms": 85,
+      "networking": 65
+    },
+    {
+      "id": "30",
+      "rollNo": 30,
+      "name": "Rishi",
+      "dsa": 96,
+      "maths": 65,
+      "dbms": 78,
+      "networking": 80
+    },
+    {
+      "id": "31",
+      "rollNo": 31,
+      "name": "Karthik",
+      "dsa": 96,
+      "maths": 66,
+      "dbms": 77,
+      "networking": 99
+    },
+    {
+      "id": "32",
+      "rollNo": 32,
+      "name": "Aariz",
+      "dsa": 65,
+      "maths": 62,
+      "dbms": 100,
+      "networking": 80
+    },
+    {
+      "id": "33",
+      "rollNo": 33,
+      "name": "Vihaan",
+      "dsa": 95,
+      "maths": 61,
+      "dbms": 75,
+      "networking": 78
+    },
+    {
+      "id": "34",
+      "rollNo": 34,
+      "name": "Vedant",
+      "dsa": 94,
+      "maths": 73,
+      "dbms": 72,
+      "networking": 81
+    },
+    {
+      "id": "35",
+      "rollNo": 35,
+      "name": "Samarth",
+      "dsa": 83,
+      "maths": 81,
+      "dbms": 95,
+      "networking": 93
+    },
+    {
+      "id": "36",
+      "rollNo": 36,
+      "name": "Daksh",
+      "dsa": 74,
+      "maths": 97,
+      "dbms": 88,
+      "networking": 61
+    },
+    {
+      "id": "37",
+      "rollNo": 37,
+      "name": "Garv",
+      "dsa": 100,
+      "maths": 69,
+      "dbms": 83,
+      "networking": 91
+    },
+    {
+      "id": "38",
+      "rollNo": 38,
+      "name": "Abhinav",
+      "dsa": 69,
+      "maths": 86,
+      "dbms": 70,
+      "networking": 94
+    },
+    {
+      "id": "39",
+      "rollNo": 39,
+      "name": "Naksh",
+      "dsa": 61,
+      "maths": 77,
+      "dbms": 77,
+      "networking": 73
+    },
+    {
+      "id": "40",
+      "rollNo": 40,
+      "name": "Avi",
+      "dsa": 80,
+      "maths": 95,
+      "dbms": 82,
+      "networking": 77
+    },
+    {
+      "id": "41",
+      "rollNo": 41,
+      "name": "Krrish",
+      "dsa": 61,
+      "maths": 60,
+      "dbms": 99,
+      "networking": 83
+    },
+    {
+      "id": "42",
+      "rollNo": 42,
+      "name": "Tanish",
+      "dsa": 64,
+      "maths": 71,
+      "dbms": 79,
+      "networking": 66
+    },
+    {
+      "id": "43",
+      "rollNo": 43,
+      "name": "Madhav",
+      "dsa": 77,
+      "maths": 72,
+      "dbms": 60,
+      "networking": 70
+    },
+    {
+      "id": "44",
+      "rollNo": 44,
+      "name": "Eshan",
+      "dsa": 88,
+      "maths": 84,
+      "dbms": 65,
+      "networking": 70
+    },
+    {
+      "id": "45",
+      "rollNo": 45,
+      "name": "Atharv",
+      "dsa": 88,
+      "maths": 84,
+      "dbms": 70,
+      "networking": 93
+    },
+    {
+      "id": "46",
+      "rollNo": 46,
+      "name": "Shlok",
+      "dsa": 100,
+      "maths": 81,
+      "dbms": 66,
+      "networking": 60
+    },
+    {
+      "id": "47",
+      "rollNo": 47,
+      "name": "Rachit",
+      "dsa": 66,
+      "maths": 75,
+      "dbms": 75,
+      "networking": 95
+    },
+    {
+      "id": "48",
+      "rollNo": 48,
+      "name": "Yug",
+      "dsa": 67,
+      "maths": 72,
+      "dbms": 97,
+      "networking": 63
+    },
+    {
+      "id": "49",
+      "rollNo": 49,
+      "name": "Akshay",
+      "dsa": 64,
+      "maths": 92,
+      "dbms": 98,
+      "networking": 92
+    },
+    {
+      "id": "50",
+      "rollNo": 50,
+      "name": "Nirvaan",
+      "dsa": 74,
+      "maths": 88,
+      "dbms": 92,
+      "networking": 100
+    },
+    {
+      "id": "51",
+      "rollNo": 51,
+      "name": "Aarohi",
+      "dsa": 81,
+      "maths": 63,
+      "dbms": 92,
+      "networking": 62
+    },
+    {
+      "id": "52",
+      "rollNo": 52,
+      "name": "Aanya",
+      "dsa": 85,
+      "maths": 80,
+      "dbms": 70,
+      "networking": 75
+    },
+    {
+      "id": "53",
+      "rollNo": 53,
+      "name": "Kiara",
+      "dsa": 97,
+      "maths": 69,
+      "dbms": 87,
+      "networking": 88
+    },
+    {
+      "id": "54",
+      "rollNo": 54,
+      "name": "Diya",
+      "dsa": 87,
+      "maths": 82,
+      "dbms": 66,
+      "networking": 72
+    },
+    {
+      "id": "55",
+      "rollNo": 55,
+      "name": "Ananya",
+      "dsa": 80,
+      "maths": 63,
+      "dbms": 87,
+      "networking": 69
+    },
+    {
+      "id": "56",
+      "rollNo": 56,
+      "name": "Myra",
+      "dsa": 91,
+      "maths": 69,
+      "dbms": 74,
+      "networking": 99
+    },
+    {
+      "id": "57",
+      "rollNo": 57,
+      "name": "Prisha",
+      "dsa": 66,
+      "maths": 83,
+      "dbms": 89,
+      "networking": 94
+    },
+    {
+      "id": "58",
+      "rollNo": 58,
+      "name": "Aisha",
+      "dsa": 94,
+      "maths": 98,
+      "dbms": 98,
+      "networking": 89
+    },
+    {
+      "id": "59",
+      "rollNo": 59,
+      "name": "Pari",
+      "dsa": 61,
+      "maths": 95,
+      "dbms": 77,
+      "networking": 96
+    },
+    {
+      "id": "60",
+      "rollNo": 60,
+      "name": "Saanvi",
+      "dsa": 78,
+      "maths": 78,
+      "dbms": 70,
+      "networking": 79
+    },
+    {
+      "id": "61",
+      "rollNo": 61,
+      "name": "Anaya",
+      "dsa": 94,
+      "maths": 92,
+      "dbms": 96,
+      "networking": 78
+    },
+    {
+      "id": "62",
+      "rollNo": 62,
+      "name": "Avni",
+      "dsa": 82,
+      "maths": 95,
+      "dbms": 92,
+      "networking": 94
+    },
+    {
+      "id": "63",
+      "rollNo": 63,
+      "name": "Riya",
+      "dsa": 72,
+      "maths": 60,
+      "dbms": 88,
+      "networking": 83
+    },
+    {
+      "id": "64",
+      "rollNo": 64,
+      "name": "Navya",
+      "dsa": 61,
+      "maths": 82,
+      "dbms": 62,
+      "networking": 71
+    },
+    {
+      "id": "65",
+      "rollNo": 65,
+      "name": "Ira",
+      "dsa": 97,
+      "maths": 89,
+      "dbms": 82,
+      "networking": 96
+    },
+    {
+      "id": "66",
+      "rollNo": 66,
+      "name": "Meera",
+      "dsa": 89,
+      "maths": 84,
+      "dbms": 95,
+      "networking": 99
+    },
+    {
+      "id": "67",
+      "rollNo": 67,
+      "name": "Roshni",
+      "dsa": 94,
+      "maths": 82,
+      "dbms": 84,
+      "networking": 90
+    },
+    {
+      "id": "68",
+      "rollNo": 68,
+      "name": "Kavya",
+      "dsa": 78,
+      "maths": 98,
+      "dbms": 87,
+      "networking": 74
+    },
+    {
+      "id": "69",
+      "rollNo": 69,
+      "name": "Sneha",
+      "dsa": 62,
+      "maths": 93,
+      "dbms": 60,
+      "networking": 99
+    },
+    {
+      "id": "70",
+      "rollNo": 70,
+      "name": "Nisha",
+      "dsa": 98,
+      "maths": 79,
+      "dbms": 63,
+      "networking": 75
+    },
+    {
+      "id": "71",
+      "rollNo": 71,
+      "name": "Tanya",
+      "dsa": 93,
+      "maths": 89,
+      "dbms": 83,
+      "networking": 99
+    },
+    {
+      "id": "72",
+      "rollNo": 72,
+      "name": "Sia",
+      "dsa": 68,
+      "maths": 67,
+      "dbms": 88,
+      "networking": 60
+    },
+    {
+      "id": "73",
+      "rollNo": 73,
+      "name": "Ishita",
+      "dsa": 63,
+      "maths": 98,
+      "dbms": 80,
+      "networking": 68
+    },
+    {
+      "id": "74",
+      "rollNo": 74,
+      "name": "Mahi",
+      "dsa": 72,
+      "maths": 73,
+      "dbms": 79,
+      "networking": 99
+    },
+    {
+      "id": "75",
+      "rollNo": 75,
+      "name": "Shruti",
+      "dsa": 90,
+      "maths": 75,
+      "dbms": 86,
+      "networking": 87
+    },
+    {
+      "id": "76",
+      "rollNo": 76,
+      "name": "Simran",
+      "dsa": 78,
+      "maths": 71,
+      "dbms": 80,
+      "networking": 61
+    },
+    {
+      "id": "77",
+      "rollNo": 77,
+      "name": "Tanvi",
+      "dsa": 92,
+      "maths": 60,
+      "dbms": 60,
+      "networking": 78
+    },
+    {
+      "id": "78",
+      "rollNo": 78,
+      "name": "Vanya",
+      "dsa": 70,
+      "maths": 90,
+      "dbms": 93,
+      "networking": 84
+    },
+    {
+      "id": "79",
+      "rollNo": 79,
+      "name": "Zoya",
+      "dsa": 99,
+      "maths": 95,
+      "dbms": 80,
+      "networking": 69
+    },
+    {
+      "id": "80",
+      "rollNo": 80,
+      "name": "Aditi",
+      "dsa": 74,
+      "maths": 83,
+      "dbms": 96,
+      "networking": 80
+    },
+    {
+      "id": "81",
+      "rollNo": 81,
+      "name": "Alia",
+      "dsa": 98,
+      "maths": 94,
+      "dbms": 68,
+      "networking": 65
+    },
+    {
+      "id": "82",
+      "rollNo": 82,
+      "name": "Aaradhya",
+      "dsa": 74,
+      "maths": 100,
+      "dbms": 73,
+      "networking": 76
+    },
+    {
+      "id": "83",
+      "rollNo": 83,
+      "name": "Sara",
+      "dsa": 92,
+      "maths": 96,
+      "dbms": 74,
+      "networking": 73
+    },
+    {
+      "id": "84",
+      "rollNo": 84,
+      "name": "Ridhi",
+      "dsa": 73,
+      "maths": 70,
+      "dbms": 76,
+      "networking": 71
+    },
+    {
+      "id": "85",
+      "rollNo": 85,
+      "name": "Trisha",
+      "dsa": 78,
+      "maths": 88,
+      "dbms": 65,
+      "networking": 62
+    },
+    {
+      "id": "86",
+      "rollNo": 86,
+      "name": "Khushi",
+      "dsa": 75,
+      "maths": 83,
+      "dbms": 75,
+      "networking": 70
+    },
+    {
+      "id": "87",
+      "rollNo": 87,
+      "name": "Niharika",
+      "dsa": 91,
+      "maths": 76,
+      "dbms": 63,
+      "networking": 70
+    },
+    {
+      "id": "88",
+      "rollNo": 88,
+      "name": "Manya",
+      "dsa": 91,
+      "maths": 81,
+      "dbms": 99,
+      "networking": 76
+    },
+    {
+      "id": "89",
+      "rollNo": 89,
+      "name": "Neha",
+      "dsa": 85,
+      "maths": 77,
+      "dbms": 82,
+      "networking": 95
+    },
+    {
+      "id": "90",
+      "rollNo": 90,
+      "name": "Gauri",
+      "dsa": 91,
+      "maths": 83,
+      "dbms": 62,
+      "networking": 95
+    },
+    {
+      "id": "91",
+      "rollNo": 91,
+      "name": "Jiya",
+      "dsa": 64,
+      "maths": 85,
+      "dbms": 68,
+      "networking": 86
+    },
+    {
+      "id": "92",
+      "rollNo": 92,
+      "name": "Kriti",
+      "dsa": 83,
+      "maths": 100,
+      "dbms": 71,
+      "networking": 96
+    },
+    {
+      "id": "93",
+      "rollNo": 93,
+      "name": "Nandini",
+      "dsa": 75,
+      "maths": 92,
+      "dbms": 92,
+      "networking": 100
+    },
+    {
+      "id": "94",
+      "rollNo": 94,
+      "name": "Pooja",
+      "dsa": 63,
+      "maths": 68,
+      "dbms": 70,
+      "networking": 76
+    },
+    {
+      "id": "95",
+      "rollNo": 95,
+      "name": "Rahul",
+      "dsa": 84,
+      "maths": 73,
+      "dbms": 78,
+      "networking": 92
+    },
+    {
+      "id": "96",
+      "rollNo": 96,
+      "name": "Rohit",
+      "dsa": 73,
+      "maths": 65,
+      "dbms": 80,
+      "networking": 96
+    },
+    {
+      "id": "97",
+      "rollNo": 97,
+      "name": "Sanjay",
+      "dsa": 89,
+      "maths": 94,
+      "dbms": 73,
+      "networking": 87
+    },
+    {
+      "id": "98",
+      "rollNo": 98,
+      "name": "Vikas",
+      "dsa": 94,
+      "maths": 60,
+      "dbms": 94,
+      "networking": 85
+    },
+    {
+      "id": "99",
+      "rollNo": 99,
+      "name": "Amit",
+      "dsa": 76,
+      "maths": 80,
+      "dbms": 76,
+      "networking": 92
+    },
+    {
+      "id": "100",
+      "rollNo": 100,
+      "name": "Sunil",
+      "dsa": 81,
+      "maths": 66,
+      "dbms": 90,
+      "networking": 93
+    }
+  ]
+}
