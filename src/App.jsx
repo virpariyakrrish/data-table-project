@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import { studentsData } from './studentsData';
 
 function App() {
   const [data, setData] = useState([]);
@@ -9,33 +10,33 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('http://localhost:5000/students')
-      .then((res) => res.json())
-      .then((json) => {
-        setData(json);
-        setLoading(false);
-      })
-      .catch((err) => {
-        console.error("Failed to fetch data", err);
-        setLoading(false);
-      });
+    try {
+      const savedData = localStorage.getItem('students_data');
+      if (savedData) {
+        setData(JSON.parse(savedData));
+      } else {
+        setData(studentsData);
+        localStorage.setItem('students_data', JSON.stringify(studentsData));
+      }
+    } catch (err) {
+      console.error("Error reading from local storage", err);
+      setData(studentsData);
+    } finally {
+      setLoading(false);
+    }
   }, []);
 
-  // Filtering
   const filteredData = data.filter((item) => {
     if (!searchTerm) return true;
     const searchLower = searchTerm.toLowerCase();
-    // Search across all values in the object
     return Object.values(item).some(
       (val) => String(val).toLowerCase().includes(searchLower)
     );
   });
 
-  // Pagination logic
   const totalItems = filteredData.length;
   const totalPages = Math.ceil(totalItems / rowsPerPage);
 
-  // Reset to first page if search changes or rows per page changes
   useEffect(() => {
     setCurrentPage(1);
   }, [searchTerm, rowsPerPage]);

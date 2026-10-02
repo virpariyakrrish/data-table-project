@@ -33,7 +33,6 @@ body {
   height: auto;
 }
 
-/* Search Bar */
 .search-container {
   margin-bottom: 20px;
 }
@@ -57,7 +56,6 @@ body {
   color: #a0aec0;
 }
 
-/* Table */
 .table-container {
   border: 1px solid #e2e8f0;
   border-radius: 4px 4px 0 0;
@@ -116,7 +114,6 @@ tbody tr:nth-child(even) {
   font-size: 10px;
 }
 
-/* Pagination */
 .pagination-container {
   display: flex;
   justify-content: space-between;
